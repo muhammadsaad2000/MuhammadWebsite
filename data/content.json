@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "title": "Muhammad Saad",
+    "description": "Muhammad Saad",
+    "themeColor": "orange",
+    "accentColor": "amber"
+  },
+  "profile": {
+    "name": "Muhammad Saad",
+    "title": "Post Secondary Graduate",
+    "location": "Toronto, Ontario",
+    "bio": "Muhammad Saad is a game and software developer currently completing an Advanced Diploma in Game Programming at Centennial College. He has hands-on experience with JSON, Python, and JavaScript through coursework in web development and networking. With a background in community leadership and event coordination, he brings strong communication and problem-solving skills to every project.",
+    "avatar": "/assets/images/profile.png"
+  },
+  "navbar": {
+    "logo": "&lt;Muhammad's Portfolio/&gt;",
+    "links": [
+      {
+        "text": "About",
+        "url": "#about",
+        "ariaLabel": "About section"
+      },
+      {
+        "text": "Experience",
+        "url": "#experience",
+        "ariaLabel": "Experience section"
+      },
+      {
+        "text": "Projects",
+        "url": "#projects",
+        "ariaLabel": "Projects section"
+      },
+      {
+        "text": "Skills",
+        "url": "#skills",
+        "ariaLabel": "Skills section"
+      },
+      {
+        "text": "Contact",
+        "url": "#contact",
+        "ariaLabel": "Contact section"
+      }
+    ]
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "description": "Specializing in <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Python</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">JSON</span>, and <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Unity</span><span class=\"text-blue-600 dark:text-blue-400 font-medium\"</span>.",
+    "cta": {
+      "primary": {
+        "text": "Get in touch",
+        "url": "#contact",
+        "ariaLabel": "Contact me"
+      },
+      "secondary": {
+        "text": "View Projects",
+        "url": "#projects",
+        "ariaLabel": "View my projects"
+      }
+    },
+    "terminal": {
+      "lines": [
+        "Hello World!",
+        "I build high-performance web applications",
+        "with modern technologies"
+      ]
+    },
+    "socialLinks": [
+      {
+        "icon": "github",
+        "url": "https://github.com/muhammadsaad2000",
+        "ariaLabel": "GitHub profile"
+      },
+    
+      {
+        "icon": "at",
+        "url": "mailto:muhammad.saad2810@gmail.com",
+        "ariaLabel": "Email contact"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am game and software developer and have completed an Advanced Diploma in Game Programming at Centennial College. I have has hands-on experience with JSON, Python, and JavaScript through coursework in web development and networking. With a background in community leadership and event coordination, he brings strong communication and problem-solving skills to every project.",
+    
+    "passion": "I'm passionate about creating high-performance web applications with a focus on security, scalability, and exceptional user experience. My approach combines technical expertise with a deep understanding of business requirements."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "description": "My professional journey in software development across various roles and organizations.",
+    "layout": "timeline",
+    "jobs": [
+      {
+        "company": "Toronto Community Housing",
+        "location": "In person",
+        "position": "Community Program Leader",
+        "period": "Summer 2023 – Fall 2023",
+        "achievements": [
+          "Planned, organized, and facilitated engaging events, lesson plans, and activities for participants, creating impactful experiences. Led weekly community events for 40+ youth, authored activity guides and safety checklists, reducing setup time by 30%",
+          "Supervised 40+ program participants during summer sessions, leading over 20 structured lesson plans focused on personal development, teamwork, and creativity. Ensured a safe and inclusive environment, resulting in increased engagement and positive feedback from both participants and parents.",
+          "Provided oversight for daily activities, ensuring smooth progress and successful completion of daily lesson plans."
+
+        ]
+      },
+      {
+        "company": "Toronto Community Housing",
+        "location": "In person",
+        "position": "Community Program Assistant",
+        "period": "Summer 2022 – Fall 2022",
+        "achievements": [
+          "Developed and presented meeting content for a variety of audiences, including informational sessions, to communicate program updates, share resources, and encourage community engagement..",
+          "Developed and implemented community engagement initiatives to advance the social and economic development goals of the project, including two summer festivals that showcased local tenant artistic talents and a scholarship dinner that recognized thirty Limitless Heights Scholarship recipients..",
+          "Managed documentation with Google Sheets, including contact lists and sign-in forms. ",
+          "Designed engaging marketing materials using Canva—including bios, menus, flyers, QR codes, and business cards—to promote community events and drive participation effectively."
+        ]
+      }
+      
+    ]
+  },
+  "projects": {
+    "title": "Key Projects",
+    "description": "Highlighting some of my most impactful work and technical achievements.",
+    "layout": "featured",
+    "list": [
+      {
+        "icon": "graduation-cap",
+        "title": "WarScape",
+        "description": "Completed a game from scracth. ",
+        "metrics": [
+          {
+            "name": "Completion",
+            "value": "100%"
+          }
+        ],
+        "projectUrl": "https://muhammads2000.itch.io/warscape-beta"
+      },
+      {
+        "icon": "robot",
+        "title": "Python application",
+        "description": "I built a simple web app where users click on animal photos tolearn about them—things like where they live, the challenges theyface, and how we can help. ",
+                "metrics": [
+          {
+            "name": "Completion",
+            "value": "100%"
+          }
+        ],
+        "projectUrl": "https://www.youtube.com/watch?v=YCBZfY4DhC0&ab_channel=MuhammadSaad",
+        "repoUrl": "https://github.com/muhammadsaad2000/gned113-major-proj"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "description": "A comprehensive overview of my technical skills.",
+    "categories": [
+      {
+        "title": "Frontend Development",
+        "icon": "laptop-code",
+        "layout": "bars",
+        "skills": [
+          
+          {
+            "name": "HTML",
+            "level": "95%"
+          },
+          {
+            "name": "CSS",
+            "level": "95%"
+          },
+        
+          {
+            "name": "Next.js",
+            "level": "85%"
+          }
+        ]
+      },
+      {
+        "title": "Backend Development",
+        "icon": "server",
+        "layout": "bars",
+        "skills": [
+          {
+            "name": "Python",
+            "level": "95%"
+          },
+          {
+            "name": "Node.js",
+            "level": "83%"
+          },
+          {
+            "name": "Express.js",
+            "level": "82%"
+          }
+        ]
+      }
+      
+    ]
+    
+  },
+  "education": {
+    "title": "Education",
+    "schools": [
+      {
+        "name": "CentennialCollege",
+        "location": "Scarbrough, Ontartio",
+        "degree": "Advanced Diploma",
+        "field": "Game Programming",
+        "period": "2021 – 2025",
+        "icon": "graduation-cap",
+        "focusAreas": [
+          "Game Proramming",
+          "Data Structures & Algorithms",
+          "Focus on multiple programming languages such as: JSON, Python, C++, C#, Java, and JavaScript"
+        ],
+        "activities": [
+          "Graduated with high academic performance"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "You can reach me at my email below",
+    "form": {
+      "title": "Send a Message",
+      "fields": [
+        { "id": "name", "label": "Name", "type": "text", "required": true },
+        { "id": "email", "label": "Email", "type": "email", "required": true },
+        { "id": "subject", "label": "Subject", "type": "text", "required": true },
+        { "id": "message", "label": "Message", "type": "textarea", "required": true }
+      ],
+      "submitText": "Send Message",
+      "saveToFile": true,
+      "successMessage": "Thank you! Your message has been sent successfully."
+    },
+    "info": {
+      "title": "Contact Information",
+      "items": [
+        {
+          "icon": "map-marker-alt",
+          "title": "Location",
+          "value": "Toronto, Ontario"
+        },
+        {
+          "icon": "envelope",
+          "title": "Email",
+          "value": "muhammad.saad2810@gmail.com",
+          "isLink": true,
+          "url": "mailto:muhammad.saad2810@gmail.com"
+        },
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "value": "Muhammadsaad2000",
+          "isLink": true,
+          "url": "https://github.com/muhammadsaad2000"
+        }
+      
+      ],
+      "availability": {
+        "enabled": true,
+        "title": "Availability",
+        "text": "I'm currently available for full-time remote opportunities. Feel free to reach out!",
+        "level": "90%",
+        "label": "Current availability: 90%"
+      }
+    }
+  },
+  "footer": {
+    "logo": "<span class=\"text-blue-400 mr-1\">&lt;</span>MS<span class=\"text-blue-400 ml-1\">/&gt;</span>",
+    "tagline": "Post Secondary Graduate",
+    "links": [
+      {
+        "text": "About",
+        "url": "#about"
+      },
+      {
+        "text": "Experience",
+        "url": "#experience"
+      },
+      {
+        "text": "Projects",
+        "url": "#projects"
+      },
+      {
+        "text": "Skills",
+        "url": "#skills"
+      },
+      {
+        "text": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "github",
+        "url": "https://github.com/muhammadsaad2000",
+        "ariaLabel": "GitHub profile"
+      },
+     
+      {
+        "icon": "at",
+        "url": "mailto:muhammad.saad2810@gmail.com",
+        "ariaLabel": "Email contact"
+      }
+    ],
+    "copyright": " 2025 Muhammad Saad. All rights reserved."
+  }
+}
