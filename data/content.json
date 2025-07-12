@@ -70,7 +70,12 @@
         "url": "https://github.com/muhammadsaad2000",
         "ariaLabel": "GitHub profile"
       },
-    
+    {
+        "icon": "linkedin-in",
+        "url": "https://www.linkedin.com/in/muhammad-saad-2b084319a/",
+        "ariaLabel": "LinkedIn profile"
+      },
+
       {
         "icon": "at",
         "url": "mailto:muhammad.saad2810@gmail.com",
@@ -149,53 +154,31 @@
     ]
   },
   "skills": {
-    "title": "Skills & Expertise",
-    "description": "A comprehensive overview of my technical skills.",
-    "categories": [
-      {
-        "title": "Frontend Development",
-        "icon": "laptop-code",
-        "layout": "bars",
-        "skills": [
-          
-          {
-            "name": "HTML",
-            "level": "95%"
-          },
-          {
-            "name": "CSS",
-            "level": "95%"
-          },
-        
-          {
-            "name": "Next.js",
-            "level": "85%"
-          }
-        ]
-      },
-      {
-        "title": "Backend Development",
-        "icon": "server",
-        "layout": "bars",
-        "skills": [
-          {
-            "name": "Python",
-            "level": "95%"
-          },
-          {
-            "name": "Node.js",
-            "level": "83%"
-          },
-          {
-            "name": "Express.js",
-            "level": "82%"
-          }
-        ]
-      }
-      
-    ]
-    
-  },
+  "title": "Skills & Expertise",
+  "description": "A comprehensive overview of my technical skills.",
+  "categories": [
+    {
+      "title": "Frontend Development",
+      "icon": "laptop-code",
+      "layout": "bars",
+      "skills": [
+        { "name": "HTML", "level": "" },
+        { "name": "CSS", "level": "" },
+        { "name": "Next.js", "level": "" }
+      ]
+    },
+    {
+      "title": "Backend Development",
+      "icon": "server",
+      "layout": "bars",
+      "skills": [
+        { "name": "Python", "level": "" },
+        { "name": "Node.js", "level": "" },
+        { "name": "Express.js", "level": "" }
+      ]
+    }
+  ]
+},
   "education": {
     "title": "Education",
     "schools": [
@@ -260,7 +243,7 @@
         "enabled": true,
         "title": "Availability",
         "text": "I'm currently available for full-time remote opportunities. Feel free to reach out!",
-        "level": "90%",
+        "level": "",
         "label": "Current availability: 90%"
       }
     }
