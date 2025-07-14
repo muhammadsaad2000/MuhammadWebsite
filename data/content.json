@@ -129,7 +129,7 @@
       {
         "icon": "graduation-cap",
         "title": "WarScape",
-        "description": "Completed a game from scracth. ",
+        "description": "Developed a playable 3D game prototype in Unity with interactive moving platforms and original level design, showcasing skills in C#, game mechanics, and spatial layout ",
         "metrics": [
           {
             "name": "Completion",
@@ -140,8 +140,8 @@
       },
       {
         "icon": "robot",
-        "title": "Python application",
-        "description": "I built a simple web app where users click on animal photos tolearn about them—things like where they live, the challenges theyface, and how we can help. ",
+        "title": "Wildlife Education Experience",
+        "description": "Developed a Python-powered interactive web app that educates users on wildlife conservation by enabling exploration of animal profiles through clickable images and informative content on habitats and environmental threats.",
                 "metrics": [
           {
             "name": "Completion",
